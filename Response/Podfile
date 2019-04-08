@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Response' do
+  use_frameworks!
+    pod 'Alamofire'
+    pod 'AlamofireImage'
+  	pod 'BouncyLayout'
+  	pod 'Crashlytics'
+  	pod 'Fabric'
+  	pod 'Firebase/Auth'
+  	pod 'Firebase/Core'
+  	pod 'Firebase/Performance'
+    pod 'FirebaseStorage'
+    pod 'FirebaseDatabase'
+  	pod 'FSPagerView'
+  	pod 'RevealingSplashView'
+  	pod 'SnapKit'
+  	pod 'StepSlider'
+  	pod 'SwiftyJSON'
+	pod 'IQKeyboardManagerSwift'
+	pod 'Stripe'
+    pod 'UIImageColors'
+end
